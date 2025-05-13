@@ -1,1 +1,1 @@
-Data Structure abd algorithms
+Data Structure and algorithms
